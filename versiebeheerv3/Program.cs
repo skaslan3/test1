@@ -7,7 +7,6 @@ namespace versiebeheerv3
         public static void Main(string[] args)
         {
             Console.WriteLine("hallo mijn naam is semih en dit is mijn git opdracht");
-            "hello";
         }
     }
 }
